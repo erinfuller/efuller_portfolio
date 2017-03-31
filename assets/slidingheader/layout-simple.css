@@ -1,0 +1,33 @@
+.intro {
+	position: fixed;
+	z-index: 10;
+	overflow: hidden;
+	width: 100%;
+	height: 100%;
+      background : -moz-linear-gradient(50% 100% 90deg,rgba(255, 255, 255, 1) 0%,rgba(204, 224, 244, 1) 16.84%,rgba(195, 219, 241, 1) 20.4%,rgba(169, 204, 234, 1) 26.3%,rgba(128, 181, 222, 1) 33.84%,rgba(70, 149, 205, 1) 42.72%,rgba(0, 110, 184, 1) 52.27%,rgba(0, 29, 63, 1) 94.37%);
+  background : -webkit-linear-gradient(90deg, rgba(255, 255, 255, 1) 0%, rgba(204, 224, 244, 1) 16.84%, rgba(195, 219, 241, 1) 20.4%, rgba(169, 204, 234, 1) 26.3%, rgba(128, 181, 222, 1) 33.84%, rgba(70, 149, 205, 1) 42.72%, rgba(0, 110, 184, 1) 52.27%, rgba(0, 29, 63, 1) 94.37%);
+  background : -webkit-gradient(linear,50% 100% ,50% 0% ,color-stop(0,rgba(255, 255, 255, 1) ),color-stop(0.1684,rgba(204, 224, 244, 1) ),color-stop(0.204,rgba(195, 219, 241, 1) ),color-stop(0.263,rgba(169, 204, 234, 1) ),color-stop(0.3384,rgba(128, 181, 222, 1) ),color-stop(0.4272,rgba(70, 149, 205, 1) ),color-stop(0.5227,rgba(0, 110, 184, 1) ),color-stop(0.9437,rgba(0, 29, 63, 1) ));
+  background : -o-linear-gradient(90deg, rgba(255, 255, 255, 1) 0%, rgba(204, 224, 244, 1) 16.84%, rgba(195, 219, 241, 1) 20.4%, rgba(169, 204, 234, 1) 26.3%, rgba(128, 181, 222, 1) 33.84%, rgba(70, 149, 205, 1) 42.72%, rgba(0, 110, 184, 1) 52.27%, rgba(0, 29, 63, 1) 94.37%);
+  background : -ms-linear-gradient(90deg, rgba(255, 255, 255, 1) 0%, rgba(204, 224, 244, 1) 16.84%, rgba(195, 219, 241, 1) 20.4%, rgba(169, 204, 234, 1) 26.3%, rgba(128, 181, 222, 1) 33.84%, rgba(70, 149, 205, 1) 42.72%, rgba(0, 110, 184, 1) 52.27%, rgba(0, 29, 63, 1) 94.37%);
+  -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#001D3F' ,GradientType=0)";
+  background : linear-gradient(0deg, rgba(255, 255, 255, 1) 0%, rgba(204, 224, 244, 1) 16.84%, rgba(195, 219, 241, 1) 20.4%, rgba(169, 204, 234, 1) 26.3%, rgba(128, 181, 222, 1) 33.84%, rgba(70, 149, 205, 1) 42.72%, rgba(0, 110, 184, 1) 52.27%, rgba(0, 29, 63, 1) 94.37%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#001D3F',endColorstr='#FFFFFF' , GradientType=0);
+
+	.st1{fill:url(#SVGID_2_);}
+</style>
+<defs>
+</defs>
+<g>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="1440" y1="1800" x2="1440" y2="0">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="0.1684" style="stop-color:#CCE0F4"/>
+		<stop  offset="0.204" style="stop-color:#C3DBF1"/>
+		<stop  offset="0.263" style="stop-color:#A9CCEA"/>
+		<stop  offset="0.3384" style="stop-color:#80B5DE"/>
+		<stop  offset="0.4272" style="stop-color:#4695CD"/>
+		<stop  offset="0.5227" style="stop-color:#006EB8"/>
+		<stop  offset="0.9437" style="stop-color:#001D3F"/>
+	</linearGradient>
+	<rect class="st0" width="2880" height="1800"/>
+</g>
+</svg>
